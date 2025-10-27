@@ -1,16 +1,21 @@
 👋 Hi, I’m @AyaAhmedSultan  
 
-🎓 A Computer Science graduate from Minia University and a Full Stack Developer passionate about building scalable and responsive web applications.  
+🎓 I’m a Full Stack Developer and a graduate of ITI’s Open Source Application Development program.  
+I hold a BSc in Computer Science from Minia University (Grade: Very Good, 2024).  
 
-💻 I’ve completed the 9-month Open Source Application Development program at the Information Technology Institute (ITI), specializing in full stack development using MERN, Python, PHP, Angular, and Django.  
+💻 Skilled in **MERN, Python, PHP, Angular, and Django**, I build responsive web applications, RESTful APIs, and scalable software solutions.  
+I’m passionate about **clean code, open-source technologies**, and developing impactful digital solutions.  
 
-🚀 My journey has allowed me to work on projects like:  
-- 🧠 Mental Health Supporter  
-- 🛒 E-commerce Platform (Angular & Node.js)  
-- 💼 Job Board Application (Laravel & Vue.js)  
-- 🏥 Medical Portal (Django & React)  
-- 🔗 Trust IT – a blockchain-based secure payment system  
+🚀 My portfolio includes projects such as:  
+- 🧠 **Mental Health Supporter** – a full-stack web app for mental health awareness  
+- 🛒 **E-commerce Platform** (Angular & Node.js)  
+- 💼 **Job Board Application** (Laravel & Vue.js)  
+- 🏥 **Medical Portal** (Django & React)  
+- 🔗 **Trust IT** – a blockchain-based secure payment system (Solidity, Truffle, Web3.js)
 
-💡 I’m always open to collaborating on web development, open-source, or blockchain projects.  
+🤝 I’m open to collaborating on **web development, open-source, and blockchain** projects.  
 
-📫 How to reach me: [aya.ahmed.sultan.abdelazeem@gmail.com](mailto:aya.ahmed.sultan.abdelazeem@gmail.com)
+📫 **How to reach me:**  
+📍 Egypt, Giza, Faisal  
+📧 [aya.ahmed.sultan.abdelazeem@gmail.com](mailto:aya.ahmed.sultan.abdelazeem@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/aya-ahmed-sultan) | [GitHub](https://github.com/AyaAhmedSultan)
