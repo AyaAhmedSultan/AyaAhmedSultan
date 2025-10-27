@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m @AyaAhmedSultan  
 
-<!--
-**AyaAhmedSultan/AyaAhmedSultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A Computer Science graduate from Minia University and a Full Stack Developer passionate about building scalable and responsive web applications.  
 
-Here are some ideas to get you started:
+💻 I’ve completed the 9-month Open Source Application Development program at the Information Technology Institute (ITI), specializing in full stack development using MERN, Python, PHP, Angular, and Django.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My journey has allowed me to work on projects like:  
+- 🧠 Mental Health Supporter  
+- 🛒 E-commerce Platform (Angular & Node.js)  
+- 💼 Job Board Application (Laravel & Vue.js)  
+- 🏥 Medical Portal (Django & React)  
+- 🔗 Trust IT – a blockchain-based secure payment system  
+
+💡 I’m always open to collaborating on web development, open-source, or blockchain projects.  
+
+📫 How to reach me: [aya.ahmed.sultan.abdelazeem@gmail.com](mailto:aya.ahmed.sultan.abdelazeem@gmail.com)
